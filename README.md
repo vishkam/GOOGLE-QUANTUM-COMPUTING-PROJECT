@@ -3,7 +3,7 @@
 Research which was conducted when I was sophomore student. The topic is QUANTUM COMPUTING AT GOOGLE
 
 ## Agenda:
-### Introduction to Quantum Computing
+#### Introduction to Quantum Computing
 ### Types of Quantum Computing
 ### Data representation 
 ### Quantum computing technologies
